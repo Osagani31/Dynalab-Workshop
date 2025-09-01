@@ -31,5 +31,3 @@ The workshop focused on *MATLAB basics, data visualization, simulations, and mat
 - Windows 
 
 ---
-
-   # Project documentation
